@@ -1,16 +1,9 @@
-# catering_pedia
+# Katering RimbaRasa
 
-A new Flutter project.
+aplikasi mobile untuk mempertemukan para penyedia jasa katering dengan konsumennya
 
-## Getting Started
+## Sistem Informasi Manajemen Jasa Katering Berbasis Mobile
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Diva Ardian : 19220987 
+Delia safarisa: 19220723  
+Riza Haryadi: 19220991 
